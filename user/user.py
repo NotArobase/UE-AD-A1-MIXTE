@@ -287,6 +287,7 @@ def add_movie(movieid):
             id
             title
             rating
+            director
         }
     }
     '''
